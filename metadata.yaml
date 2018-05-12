@@ -1,0 +1,36 @@
+_repo: The-Corner-House-Girls-Among-the-GypsiesHow-They-Met-What-Happened-and-How-It-Ended_36400
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gooch, Thelma
+    gutenberg_agent_id: '32061'
+    url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Brooks
+    gutenberg_agent_id: '9684'
+    url: http://www.gutenberg.org/2009/agents/9684
+description: ''
+gutenberg_issued: '2011-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'First loves -- Juvenile fiction'
+- !lcsh 'Jewelry -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Romanies -- Juvenile fiction'
+title: 'The Corner House Girls Among the Gypsies
+
+  How They Met, What Happened, and How It Ended'
+url: http://www.gutenberg.org/ebooks/36400
