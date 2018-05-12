@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9684'
     url: http://www.gutenberg.org/2009/agents/9684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36400#The-Corner-House-Girls-Among-the-GypsiesHow-They-Met-What-Happened-and-How-It-Ended
 gutenberg_issued: '2011-06-12'
 gutenberg_type: Text
 identifiers:
